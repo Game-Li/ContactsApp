@@ -6,7 +6,7 @@ ContactsApp is a contact management system with GUI implemented using Java and b
 The system provides the following functionalities :-  
 1. Create new contact  
 2. Search for a particular contact and/or update the same.   
-3. Get a list of all contacts  
+3. Get a list of all contacts and delete contacts
 
 A notification label informs the user whether any of the contacts have birthday on the current day.  
 
