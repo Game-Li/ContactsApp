@@ -10,18 +10,18 @@ The system provides the following functionalities :-
 
 A notification label informs the user whether any of the contacts have birthday on the current day.  
 
-<p align:"center>
+<p align:"center">
   <img src ="https://raw.githubusercontent.com/bhaskarcodes/ContactsApp/master/contacts.png" ></a>
 </p>
 
-<p align:"center>
+<p align:"center">
   <img src ="https://raw.githubusercontent.com/bhaskarcodes/ContactsApp/master/addnewcontact.png" ></a>
 </p>
 
-<p align:"center>
+<p align:"center">
   <img src ="https://raw.githubusercontent.com/bhaskarcodes/ContactsApp/master/showall.png" ></a>
 </p>
 
-<p align:"center>
+<p align:"center">
   <img src ="https://raw.githubusercontent.com/bhaskarcodes/ContactsApp/master/updateandsearch.png" ></a>
 </p>
