@@ -11,7 +11,7 @@ The system provides the following functionalities :-
 A notification label informs the user whether any of the contacts have birthday on the current day.  
 
 <p align="center">
-  <img src ="https://raw.githubusercontent.com/bhaskarcodes/ContactsApp/master/contacts.png" ></a>
+  <img src ="https://raw.githubusercontent.com/bhaskarcodes/ContactsApp/master/mainpage.png" ></a>
 </p>
 
 <p align="center">
@@ -19,9 +19,15 @@ A notification label informs the user whether any of the contacts have birthday 
 </p>
 
 <p align="center">
-  <img src ="https://raw.githubusercontent.com/bhaskarcodes/ContactsApp/master/showall.png" ></a>
+  <img src ="https://raw.githubusercontent.com/bhaskarcodes/ContactsApp/master/searchacontact.png" ></a>
 </p>
 
 <p align="center">
-  <img src ="https://raw.githubusercontent.com/bhaskarcodes/ContactsApp/master/updateandsearch.png" ></a>
+  <img src ="https://raw.githubusercontent.com/bhaskarcodes/ContactsApp/master/updatecontact.png" ></a>
+</p>
+<p align="center">
+  <img src ="https://raw.githubusercontent.com/bhaskarcodes/ContactsApp/master/showcontact.png" ></a>
+</p>
+<p align="center">
+  <img src ="https://raw.githubusercontent.com/bhaskarcodes/ContactsApp/master/generatefile.png" ></a>
 </p>
